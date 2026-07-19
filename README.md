@@ -2,6 +2,8 @@
 
 Minimal SvelteKit pomodoro timer with work/break presets, persistent local settings, and a high-contrast timer display.
 
+I was tired of pomodoro mobile apps and webapps, either being cluttered with bloat-UI or subscription-fees.
+
 Live page: `https://zerviate.github.io/pomodoro-timer/`
 
 ## Use
